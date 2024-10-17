@@ -1,0 +1,21 @@
+.award {
+    padding: 100px 0px;
+    margin-top: 4rem;
+    margin-left: 15rem;
+    margin-right: 5rem;
+    background-color: rgba(128, 128, 128, 0.1);
+  }
+  .award hr {
+    width: 400px;
+    margin: 10px auto;
+  }
+  .award h2 {
+    font-weight: bold;
+  }
+ .award .vertical-timeline-element-title{
+    color: #1e1e2c;
+
+ }
+ .award .vertical-timeline-element-subtitle{
+    color: #1e1e2c;
+ }

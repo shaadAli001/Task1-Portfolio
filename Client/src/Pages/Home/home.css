@@ -1,0 +1,54 @@
+.home-container {
+  height: 300px;
+  color: white;
+  margin-left: 6rem;
+}
+.home-content h2 {
+  padding: 10px;
+  padding-top: 80px;
+}
+.home-content h1 {
+  color: #e0b50f;
+}
+.home-buttons {
+  margin-top: 2rem;
+}
+.home-buttons .btn-hire {
+  background-color: #3b8ff3;
+  color: white;
+  width: 120px;
+  font-size: 1.5rem;
+}
+.home-buttons .btn-hire:hover {
+  background-color: white;
+  color: #3b8ff3;
+  width: 160px;
+  font-size: 1.5rem;
+  transition: 1s;
+  width: 150px;
+}
+.home-buttons .btn-cv {
+  background-color: #f29f67;
+  color: white;
+  margin-left: 1.5rem;
+}
+.home-buttons .btn-cv:hover {
+  opacity: 80%;
+  transition: 1s;
+}
+.theme-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  background-color: #1e1e1e;
+  margin-top: 1.35rem;
+  text-align: center;
+  position: fixed;
+  right: 0;
+  cursor: pointer;
+  z-index: 1;
+  border-top-left-radius: 0.8rem;
+  border-bottom-left-radius: 0.8rem;
+}
